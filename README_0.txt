@@ -11,4 +11,4 @@ This is my 4th year project. Order of going through the folder is as follows:
 6. Remianing Useful Life RUL
 
 Most Folders have README_X files where X denotes a number. The number goes up this corrsponds to the major markers of the project.
-Some sub folders are numbered. Start from the smallest then up sequentially to the biggest. This indicates what file was made first and what order the project took place
+Some sub folders are numbered. Start from file 1 then up sequentially to file 6. This indicates what file was made first and what order the project took place
